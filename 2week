@@ -15,7 +15,7 @@ composition
 
 
 color
-
+https://user-images.githubusercontent.com/90558003/146638388-f66d8457-992b-4dc8-9341-b70335255dee.PNG
 : 빛은 파장의 크기에따라 색이 달라짐. 
 반사 되는 
 cmyk :감산혼합
@@ -24,3 +24,8 @@ rgb: 가산혼합
 
 
 alpha
+bit depth
+1bit : ex) 0,1
+2bit : ex) 11,10,01,00
+제곱승
+
